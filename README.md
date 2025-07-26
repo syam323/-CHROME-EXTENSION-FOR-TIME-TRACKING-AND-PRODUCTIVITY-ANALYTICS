@@ -76,3 +76,9 @@ License
 
 OUTPUT:
 
+<img width="1917" height="1016" alt="Image" src="https://github.com/user-attachments/assets/9a0a52e5-3899-44c8-82ae-805dc911f362" />
+
+<img width="470" height="741" alt="Image" src="https://github.com/user-attachments/assets/555562c4-58f9-452c-a421-f0287e841f6c" />
+
+<img width="499" height="258" alt="Image" src="https://github.com/user-attachments/assets/a2b5caca-637e-4c05-b782-ab5bb8dfa1ea" />
+
